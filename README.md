@@ -25,3 +25,19 @@ git clone https://github.com/Dgitial/Gpt3_jsm.git
 cd <project-directory>
 npm install
 ```
+Then, run the application:
+
+    ```bash
+    npm start
+Deployment
+This project is deployed on https://gpt3-jsm-q549.vercel.app/ feel free to check it out
+
+Contributing
+If you'd like to contribute to this project, feel free to fork the repository and submit a pull request.
+
+License
+This project is licensed under the MIT License - see the LICENSE file for details.
+
+Acknowledgments
+Inspired by modern web design trends and responsive layout techniques.
+Thanks to the React community for their valuable resources and documentation.
